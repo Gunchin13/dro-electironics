@@ -1,0 +1,60 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "img": "https://drou-electronics-store.myshopify.com/cdn/shop/products/p9_large.jpg?v=1674275297",
+            "hoverImg": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-pro-2-hero-select-202409_FMT_WHH?wid=750&hei=556&fmt=jpeg&qlt=90&.v=1724041668836",
+            "title": "Drou watch ultra",
+            "price": "$70.00"
+        },
+        {
+            "id": 2,
+            "img": "https://drou-electronics-store.myshopify.com/cdn/shop/products/p1_large.jpg?v=1674275319",
+            "hoverImg": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-pro-2-hero-select-202409_FMT_WHH?wid=750&hei=556&fmt=jpeg&qlt=90&.v=1724041668836",
+            "title": "Drou watch ultra",
+            "price": "$70.00"
+        },
+        {
+            "id": 3,
+            "img": "https://drou-electronics-store.myshopify.com/cdn/shop/products/p4_large.jpg?v=1674275315",
+            "hoverImg": "https://drou-electronics-store.myshopify.com/cdn/shop/products/p5_large.jpg?v=1674275315",
+            "title": "Drou watch ultra",
+            "price": "$70.00"
+        },
+        {
+            "id": 4,
+            "img": "https://drou-electronics-store.myshopify.com/cdn/shop/products/p5_large.jpg?v=1674275315",
+            "hoverImg": "https://drou-electronics-store.myshopify.com/cdn/shop/products/p4_large.jpg?v=1674275315",
+            "title": "Drou watch ultra",
+            "price": "$70.00"
+        },
+        {
+            "id": 5,
+            "img": "https://drou-electronics-store.myshopify.com/cdn/shop/products/13_large.jpg?v=1674275345",
+            "hoverImg": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-pro-2-hero-select-202409_FMT_WHH?wid=750&hei=556&fmt=jpeg&qlt=90&.v=1724041668836",
+            "title": "Drou watch ultra",
+            "price": "$70.00"
+        },
+        {
+            "id": 6,
+            "img": "https://denver-residence.b-cdn.net/wp-content/uploads/2023/08/commercial-820x777.webp",
+            "hoverImg": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-pro-2-hero-select-202409_FMT_WHH?wid=750&hei=556&fmt=jpeg&qlt=90&.v=1724041668836",
+            "title": "Drou watch ultra",
+            "price": "$70.00"
+        },
+        {
+            "id": 7,
+            "img": "https://denver-residence.b-cdn.net/wp-content/uploads/2023/08/commercial-820x777.webp",
+            "hoverImg": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-pro-2-hero-select-202409_FMT_WHH?wid=750&hei=556&fmt=jpeg&qlt=90&.v=1724041668836",
+            "title": "Drou watch ultra",
+            "price": "$70.00"
+        },
+        {
+            "id": 8,
+            "img": "https://denver-residence.b-cdn.net/wp-content/uploads/2023/08/commercial-820x777.webp",
+            "hoverImg": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-pro-2-hero-select-202409_FMT_WHH?wid=750&hei=556&fmt=jpeg&qlt=90&.v=1724041668836",
+            "title": "Drou watch ultra",
+            "price": "$70.00"
+        }
+    ]
+}

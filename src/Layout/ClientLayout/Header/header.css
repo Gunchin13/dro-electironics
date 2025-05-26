@@ -1,0 +1,9 @@
+.basket-count{
+  position: absolute;
+  top: -50%;  
+  font-size: 1.2rem;
+  background:red;
+  color: aliceblue;
+  border-radius: 50%;
+  padding: 0 .2rem;
+}
