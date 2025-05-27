@@ -1,0 +1,10 @@
+{
+    "navbar": {
+     "Home": "Главная",
+     "Electronics": "Электроника",
+     "BLog": "Блог",
+     "Pages": "Страницы",
+     "Contact": "Контакт",
+     "All Categories": "Все категории"
+    }
+}

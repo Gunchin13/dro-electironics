@@ -11,7 +11,7 @@ const Home = () => {
 
   return (
     <>
-     <section className=' flex justify-between px-40 py-10 w-full sm (≥640px'>
+     <section className=' flex justify-between px-40 py-10 w-full '>
         <div className=' relative flex gap-3 justify-between'>
           <div>
             <img src="https://drou-electronics-store.myshopify.com/cdn/shop/files/new-s1_b9ecc0a5-4779-4351-86ac-7947dd6afc81.jpg?v=1674276677" className='w-283' alt="" />
@@ -53,8 +53,8 @@ const Home = () => {
 
       </section>
   
-       <div className="px-40 w-full ) ">
-        <Swiper/>
+       <div className="  px-40  rounded-xl p-4 mt-6">
+        <Swiper/ >
       </div>
 
       <section className="relative  ">

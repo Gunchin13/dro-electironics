@@ -2,12 +2,15 @@
  import Blog from "../pages/client/Blog"
 import Contact from "../pages/client/Contact"
 import Electronics from "../pages/client/Electronics"
-import CLientLayout from "../Layout/ClientLayout";
-
+import Layout from "../Layout/ClientLayout";
+import Pages from "../pages/client/Pages";
+import Basket from "../pages/client/Basket";
+import Admin from "../companents/Admin";
+ 
 const Route = [
     {
         path: "/",
-        element: <CLientLayout/>,
+        element: <Layout/>,
         children: [
             {
                 index: true,
@@ -25,6 +28,19 @@ const Route = [
                 path: "electronics",
                 element: <Electronics/>,
             },
+            {
+                path: "basket",
+                element: <Basket/>,
+            },
+            {
+                path: "pages",
+                element: <Pages/>,
+            },
+            {
+                path: "admin",
+                element: <Admin/>,
+            },
+            
         ],
     },
 ];

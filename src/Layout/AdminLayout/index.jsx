@@ -1,6 +1,6 @@
 import React from 'react'
 
-const AminLayout = () => {
+const AdminLayout = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const AminLayout = () => {
   )
 }
 
-export default AminLayout
+export default AdminLayout

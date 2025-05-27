@@ -1,9 +1,9 @@
 .basket-count{
   position: absolute;
-  top: -50%;  
-  font-size: 1.2rem;
-  background:red;
+  top: 60%;  
+  font-size: 1rem;
+  background:rgb(231, 33, 33);
   color: aliceblue;
   border-radius: 50%;
-  padding: 0 .2rem;
+  padding: 0 .4rem;
 }
